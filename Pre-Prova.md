@@ -1,5 +1,17 @@
 # 📚 Resumo Pré-Prova: Melhores Exercícios de Portugol
 
+## 📝 Comandos Essenciais
+
+- **Entrada:** `leia`
+- **Saída:** `escreva`, `escreval`
+- **Condicional:** `se ... entao ... senao ... fimse`
+- **Repetição:** `para ... faca ... fimpara`, `enquanto ... faca ... fimenquanto`
+- **Função:** `funcao ... fimfuncao`
+- **Vetor:** declaração e acesso por índice (`vet[i]`)
+- **Matriz:** declaração e acesso por índice (`mat[i][j]`)
+- **Registro:** `registro ... fimregistro`
+- **Operadores:** `+`, `-`, `*`, `/`, `%`, `=`, `>`, `<`
+
 ---
 
 ## 1. Entrada, Saída e Operações Básicas
@@ -335,17 +347,3 @@ fimse
 
 ---
 
-## 📝 Resumo dos Conteúdos Usados
-
-- **Entrada/Saída:** `leia`, `escreva`, `escreval`
-- **Variáveis:** Inteiro, Real, Cadeia, Registro
-- **Operadores:** Aritméticos, Relacionais, Lógicos
-- **Condicionais:** `se ... entao ... senao ... fimse`
-- **Repetição:** `para`, `enquanto`, `repita`
-- **Vetores e Matrizes**
-- **Funções e Procedimentos**
-- **Recursão**
-- **Registros**
-- **Manipulação de Strings**
-
----
