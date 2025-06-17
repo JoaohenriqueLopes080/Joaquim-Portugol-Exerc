@@ -34,4 +34,4 @@
     Declaração de variáveis.
 
 - **constante**  
-    Declaração de constantes.
+    Declaração de constante

@@ -1,6 +1,7 @@
 programa "Ex_1"
 inicio
-    var inteiro Numero, calculo;
+
+    inteiro Numero, calculo;
 
     escreva("Digite um Numero: ");
     leia(Numero);
