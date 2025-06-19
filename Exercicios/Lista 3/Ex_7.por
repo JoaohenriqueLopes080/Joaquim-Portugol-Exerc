@@ -1,0 +1,3 @@
+algoritmo Loteria
+
+    int: 
