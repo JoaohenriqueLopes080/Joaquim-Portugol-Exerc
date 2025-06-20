@@ -8,7 +8,7 @@ algoritmo intervalo_impar
 
     se (quantidade < 2) entao {
         escreva("O quantidade deve ser maior ou igual a 2.");
-        retorne;
+        break;
     fim_se
         } senao {
             i = 2

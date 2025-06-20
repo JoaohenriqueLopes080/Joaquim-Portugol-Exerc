@@ -29,5 +29,5 @@ inicio
 
     mmc = (a * b) / maior;
 
-    escreval("O MMC entre ", a, " e ", b, " é: ", mmc)
+    escreval("O MMC entre ", a, " e ", b, " é: ", mmc);
 fim
