@@ -1,12 +1,24 @@
 algorimto diagonalprincipal
 
+funcao void imprimirmatriz(matriz[l1][c1]) {
+    int i;
+    i = 0;
+
+
+     escreva("Imprimindo Diagonal Principal");
+                    para (i de 0 ate l1 - 1) faca {
+                            escreva(matriz[i][i])
+                        }
+                    
+}
+
+
     inicio 
         int: l1,c1,i, j;
        
 
         i = 0;
         j = 0;
-
         escreva("Tamanho de linhas da matriz");
             leia(l1);
             escreva("Tamanho de colunas da matriz");
@@ -21,9 +33,8 @@ algorimto diagonalprincipal
                             leia(matriz[i][j]);
                     }
               }
+              
+    imprimirmatriz(matriz[l1][c1]);
 
-                escreva("Imprimindo Diagonal Principal");
-                    para (i de 0 ate l1 - 1) faca {
-                            escreva(matriz[i][i])
-                        }
-                    
+fim
+           
