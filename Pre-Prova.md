@@ -100,10 +100,10 @@ fimse
 inteiro qtd, i, par
 escreva("Digite a quantidade de pares: ")
 leia(qtd)
-par <- 2
+par = 2
 para i de 1 ate qtd faca
     escreva(par, " ")
-    par <- par + 2
+    par = par + 2
 fimpara
 ```
 

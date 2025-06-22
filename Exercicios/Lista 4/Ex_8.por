@@ -16,8 +16,8 @@ algoritmo MATRIZES
     funcao void : MATRIZES(valor1,valor2,valor3)
 
         int : X[valor1][valor2]
-        int : y[valor1][valor2]
-        int : z[valor1][valor2]
+        int : Y[valor1][valor2]
+        int : Z[valor1][valor2]
 
 
 
