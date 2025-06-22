@@ -39,7 +39,7 @@
     - i. (2 >= 5) e (1 <> 0) e não (6 <= 2 * 3) ou (10 <> 10)
     - j. 26 / 6 / 2 – 127 + 7 mod 5
 
-    // E : // pedir ajuda para o joaquim, questão 1 - 8
+    // E : // pedir ajuda para o joaquim, questão 1 - 8, não vi o que é rad. e o chatgpt fez uma ideia estranha dessa função.
     E = 25 - 4 / 2+ rad(1 + 3 * 5 ) / 2
     E = 25 - 4 / 2 + rad(1 + 15) / 2
     E = 25 - 2 + rad(16) / 2

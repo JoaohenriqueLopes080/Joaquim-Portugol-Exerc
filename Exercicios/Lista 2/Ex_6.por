@@ -1,5 +1,5 @@
-algoritmo "Ex_6"
-// Entrar com dois nomes e imprimi-los em ordem alfabética
+algoritmo 
+
 
 funcao inicio()
     char : nome1, nome2
@@ -9,7 +9,7 @@ funcao inicio()
     escreva("Digite o segundo nome: ")
     leia(nome2)
 
-    // Se nome1 vem antes de nome2 alfabeticamente
+    
     se strcomp(nome1, nome2) < 0 entao {
         escreva("Ordem alfabética: ", nome1, ", ", nome2)
      fimse } senao {

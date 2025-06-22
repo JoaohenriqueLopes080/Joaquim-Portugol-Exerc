@@ -1,9 +1,10 @@
-algoritmo "Ex_5"
+algoritmo 
 
-var
-    char : sigla
+    
 
 inicio
+    char : sigla
+
     escreva("Digite a sigla do seu estado (RS, SP, RJ): ")
     leia(sigla)
 
