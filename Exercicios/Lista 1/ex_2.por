@@ -1,7 +1,7 @@
 algoritmo dados
     inicio
     
-        inteiro : nome, endereço, telefone;
+        char : nome, endereço, telefone;
 
         escreva("Digite seu nome: ");
             leia(nome);
