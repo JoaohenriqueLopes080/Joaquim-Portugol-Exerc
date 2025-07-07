@@ -3,10 +3,6 @@
 Bem-vindo ao repositório
 Aqui você encontrará a coleção dos exercícios e soluções das 5 listas de Algoritmo e Logica do Professor Joaquim.
 
-## 📚 Sobre o Projeto
-
-Este repositório reúne exercícios práticos para ajudar estudantes e entusiastas a desenvolverem suas habilidades em programação utilizando a linguagem Portugol. O objetivo é propor desafios de lógica e apresentar soluções comentadas para facilitar o entendimento.
-
 ## 🚀 Como Utilizar
 
 1. **Clone o repositório:**
