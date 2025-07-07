@@ -1,7 +1,7 @@
 # Joaquim-Portugol-Exerc
 
-Bem-vindo ao repositório **Joaquim-Portugol-Exerc**!  
-Aqui você encontrará uma coleção de exercícios e soluções desenvolvidas em Portugol, focadas no aprendizado de lógica de programação e algoritmos.
+Bem-vindo ao repositório
+Aqui você encontrará a coleção dos exercícios e soluções das 5 listas de Algoritmo e Logica do Professor Joaquim.
 
 ## 📚 Sobre o Projeto
 
